@@ -114,6 +114,7 @@ export const MyProjects: Project[] = [
       "https://github.com/WilsonRCosta/travel-planner-api",
       "https://github.com/WilsonRCosta/travel-planner-app",
     ],
+    demoUrl: "https://travel-planner-app-2dfy.onrender.com/",
     screenshots: ["projects/travel-planner-screenshot.png"],
   },
   {
